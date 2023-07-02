@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FA8068;
+}
+
+h1{
+    font-family: 'Asap Condensed', sans-serif;
+    font-size: 4rem;
+    max-width: 50vw;
+}
+header {
+    display: flex;
+}
+.hero{
+   display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    border: 1px solid black;
+}
+
+.hero-text{
+    max-width: 60%;
+}
+
+.hero-content{
+    display: flex;
+
+}
+
+.hero-phone {
+    position: relative;
+    /* padding-bottom: 56.25%;  */
+    /* Set the aspect ratio to 16:9 (divided height by width) */
+    /* overflow: hidden; */
+    margin-left: 10%;
+    margin-top: 2%;
+  
+  }
+  
+  .hero-phone video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 90%;
+  }
+  
+
+#content{
+
+    display: flex;
+    align-items: center;
+  }
+
+@media only screen and (max-width: 600px) {
+    .hero-content{
+        flex-direction: column;
+    }
+    .hero-phone{
+        margin-left: 0;
+    }
+    .hero-text{
+        max-width: 100%;
+        padding: 0!important;
+    }
+    .hero{
+        height: 100vh;
+        margin: 0!important;
+    }
+  }
