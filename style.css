@@ -50,6 +50,12 @@ header {
     width: auto;
     height: 90%;
   }
+
+  .col-sm-4 img{
+    /* make image into circle */
+    border-radius: 50%;
+    width: 25
+  }
   
 
 #content{
