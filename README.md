@@ -3,7 +3,7 @@ Theme: Revolutionise the tech hiring landscape by creating a more fair, diverse,
 
 [Presentation pitch](https://www.canva.com/design/DAFm9NOHcWg/lq2DjFWc4MTkH6KKIQX05g/edit?utm_content=DAFm9NOHcWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[Figma Prototype]([https://www.figma.com/proto/t0l9oowuqK5YmqUUFwcoWl/Athena-Hackathon-2023---CareerZ?page-id=77%3A2&type=design&node-id=97-197&viewport=413%2C-574%2C0.55&t=Udg7U6AKeDc0g7RF-1&scaling=scale-down&starting-point-node-id=97%3A197&mode=design](https://www.figma.com/proto/fNBDLFyvyIaVf2Q9mAZcFf/Athena-Hackathon-2023---CareerQuest-prototype?page-id=77%3A2&type=design&node-id=97-197&viewport=287%2C303%2C0.07&t=b8jSZonDfLKAHFnc-1&scaling=scale-down&starting-point-node-id=97%3A197&mode=design)
+[Figma Prototype](https://www.figma.com/proto/fNBDLFyvyIaVf2Q9mAZcFf/Athena-Hackathon-2023---CareerQuest-prototype?page-id=77%3A2&type=design&node-id=97-197&viewport=287%2C303%2C0.07&t=b8jSZonDfLKAHFnc-1&scaling=scale-down&starting-point-node-id=97%3A197&mode=design)
 
 Team:
 | Name        | Current Role                                                        | Team Role                     |
